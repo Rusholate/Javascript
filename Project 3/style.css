@@ -1,0 +1,42 @@
+#glassesGirl {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    }
+
+#alter {
+  font-family: "Segoi UI", sans-serif;
+  text-align: center;
+}
+
+div {
+  height: 500px;
+  width: 600px;
+  background: lightblue;
+  margin: 0 auto;
+}
+
+  #whereMyGlasses {
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    display: none;
+
+  }
+
+  #bidoof {
+    margin: 0 auto;
+    display: none;
+  }
+
+  #pikachu {
+    margin: 0 auto;
+    display: none;
+  }
+
+  #pikachuFaint {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    display: none;
+  }

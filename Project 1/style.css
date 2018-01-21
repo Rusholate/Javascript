@@ -1,0 +1,14 @@
+body {
+color: black;
+
+}
+
+#blasterBlade {
+  width: 100%;
+  background-color: red;
+}
+
+div {
+  width: 900px;
+margin: 0 auto;
+}
